@@ -1,3 +1,14 @@
-
 Backup/
-CE202479.cywrk.ashj
+*.ashj
+LLS_CSD_12RX-042.cydsn/CortexM0
+codegentemp
+LLS_CSD_12RX-042.cydsn/Export/
+LLS_CSD_12RX-042.cydsn/Generated_Source/
+LLS_CSD_12RX-042.cydsn/LLS_CSD_12RX-042.cycdx
+LLS_CSD_12RX-042.cydsn/LLS_CSD_12RX-042.cyfit
+LLS_CSD_12RX-042.cydsn/LLS_CSD_12RX-042.svd
+LLS_CSD_12RX-042.cydsn/LLS_CSD_12RX-042_timing.html
+Debug/
+*.elf
+*.hex
+*.rpt
