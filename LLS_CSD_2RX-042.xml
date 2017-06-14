@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="LLS_CSD_2RX-042" WorkspaceName="CE202479.cywrk">
+  <Version>1.0</Version>
+  <Keyword>CapSense</Keyword>
+  <Keyword>Liquid</Keyword>
+  <Keyword>Level</Keyword>
+  <Keyword>Water</Keyword>
+  <Keyword Hidden="true">CY8CKIT-042</Keyword>
+  <Keyword Hidden="true">CY8CKIT-022</Keyword>
+  <Description>This example demonstrates liquid-level sensing using Cypress's CapSense technology in PSoC 4 devices. Version 1.0 of the code example is compatible with kits CY8CKIT-042 and CY8CKIT-022 and water based liquids.
+  </Description>
+  <DeviceFilter>PSoC 4200</DeviceFilter>
+  <Document>CE202479.pdf</Document>
+  <MinToolVersion>3.3.0.410</MinToolVersion>
+</Project>
